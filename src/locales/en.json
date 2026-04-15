@@ -1,0 +1,110 @@
+{
+  "header": {
+    "title": "Full-Stack Developer SSr",
+    "switchLang": "Español"
+  },
+  "sidebar": {
+    "contact": "Contact",
+    "languages": "Languages",
+    "tools": "Tools & Technologies"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Full-Stack SSr developer with 5+ years of experience building scalable solutions in high-demand environments. Specialist in backend with C# and Python, and frontend with React and Angular. Solid experience in microservices architecture, SOLID principles, and robust API design (REST/gRPC). Worked with Docker, AWS, and async messaging (Kafka, RabbitMQ) for highly available systems. I integrate AI-Assisted Development into the SDLC using tools like Claude and Cursor for code generation, refactoring, debugging, and technical documentation."
+  },
+  "experience": {
+    "title": "Work Experience",
+    "items": {
+      "simpliroute": {
+        "role": "Software Development Engineer",
+        "period": "Aug 2025 – Apr 2026 · 8 months",
+        "location": "Remote",
+        "bullets": [
+          "Developed and maintained new features on frontend and backend web platforms, improving user experience in an agile, multidisciplinary team.",
+          "Implemented code reviews that contributed to reducing production defects.",
+          "Led requirements analysis with product and QA teams, ensuring delivery times and quality.",
+          "Created and maintained high-quality technical documentation using AI-Assisted Development tools (Claude).",
+          "Executed production deployments with CI/CD pipeline supervision."
+        ]
+      },
+      "siigo": {
+        "role": "Full-Stack Developer SSr",
+        "period": "Mar 2021 – Aug 2025 · 4 years 5 months",
+        "location": "Remote",
+        "bullets": [
+          "Developed scalable solutions in C# .NET Core, JavaScript, and TypeScript supporting 50%+ user growth in the payroll module.",
+          "Implemented inter-service communication using gRPC and async messaging with Kafka, improving system resilience.",
+          "Led deployments and cloud environment management with Azure DevOps and Docker, achieving 99.9% uptime.",
+          "Implemented microfrontends with Angular.js and React.js, improving modularity and feature delivery speed.",
+          "Actively participated in code reviews and technical mentoring."
+        ]
+      },
+      "lqn": {
+        "role": "Backend Developer",
+        "period": "Sep 2020 – Dec 2020 · 4 months",
+        "location": "Remote",
+        "bullets": [
+          "Developed APIs with Python and GraphQL, reducing query complexity by 20% vs. the previous system.",
+          "Integrated chatbots with Dialogflow and React, automating 60% of frequent user queries.",
+          "Fixed legacy system bugs, improving operational efficiency and platform stability.",
+          "Configured local environments with Docker and YAML files to standardize the development flow.",
+          "Implemented RabbitMQ messaging for async event processing."
+        ]
+      },
+      "servagro": {
+        "role": "Web Developer",
+        "period": "Oct 2018 – Nov 2020 · 2 years 1 month",
+        "location": "Hybrid",
+        "bullets": [
+          "Developed Odoo modules (Python) and JavaScript components, extending ERP capabilities for 3 business units.",
+          "Updated microservices with Python, LXD, and Ansible, reducing deployment times.",
+          "Implemented secure APIs using GraphQL, Aiohttp, AsyncIO, and JWT.",
+          "Configured real-time monitoring with NetData and Grafana, improving incident visibility."
+        ]
+      },
+      "dao": {
+        "role": "IT Assistant",
+        "period": "Oct 2017 – Feb 2018 · 4 months",
+        "location": "Popayán",
+        "bullets": [
+          "Led inventory data migration for 20 commercial warehouses with zero data loss.",
+          "Trained 10 process leaders on ERP usage and parameterization, reducing post-implementation errors by 25%.",
+          "Prepared, validated, and processed master data for successful migration to the new ERP."
+        ]
+      }
+    }
+  },
+  "education": {
+    "title": "Education",
+    "items": {
+      "javeriana": {
+        "type": "Bachelor's Degree",
+        "degree": "Systems and Computer Engineering",
+        "period": "In progress"
+      },
+      "icesi": {
+        "type": "Diploma",
+        "degree": "Data Science, Digital Technologies and Analytics",
+        "period": "Jul 2022 – Aug 2022"
+      },
+      "sena": {
+        "type": "Technological Specialization",
+        "degree": "IT Project Management",
+        "period": "Jan 2015 – Jan 2016"
+      }
+    },
+    "visitWebsite": "Visit Website"
+  },
+  "languages": {
+    "title": "Languages",
+    "items": {
+      "spanish": { "name": "Spanish", "level": "Native" },
+      "english": { "name": "English", "level": "A2 (improving)" }
+    }
+  },
+  "footer": {
+    "workingFrom": "Working from",
+    "location": "Cajibío, Cauca",
+    "rights": "All rights reserved"
+  }
+}
