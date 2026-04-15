@@ -1,0 +1,110 @@
+{
+  "header": {
+    "title": "Desarrollador FullStack SSr",
+    "switchLang": "English"
+  },
+  "sidebar": {
+    "contact": "Contacto",
+    "languages": "Lenguajes",
+    "tools": "Herramientas y Tecnologías"
+  },
+  "about": {
+    "title": "Resumen",
+    "description": "Desarrollador Full-Stack SSr con más de 5 años de experiencia construyendo soluciones escalables en entornos de alta demanda. Especialista en backend con C# y Python, y frontend con React y Angular. Experiencia sólida en arquitectura basada en microservicios, principios SOLID y diseño de APIs robustas (REST/gRPC). He trabajado con Docker, AWS y mensajería asíncrona (Kafka, RabbitMQ) para sistemas altamente disponibles. Integro AI-Assisted Development en el SDLC utilizando herramientas como Claude y Cursor para generación de código, refactorización, debugging y documentación técnica."
+  },
+  "experience": {
+    "title": "Experiencia",
+    "items": {
+      "simpliroute": {
+        "role": "Software Development Engineer",
+        "period": "Ago 2025 – Abr 2026 · 8 meses",
+        "location": "Remoto",
+        "bullets": [
+          "Desarrollé y mantuve nuevas funcionalidades en plataformas web frontend y backend, mejorando la experiencia de usuario en un equipo ágil y multidisciplinario.",
+          "Implementé revisiones de código que contribuyeron a reducir defectos en producción.",
+          "Lideré análisis de requerimientos con equipos de producto y QA, asegurando tiempos de entrega y calidad.",
+          "Elaboré y mantuve documentación técnica de alta calidad usando herramientas de AI-Assisted Development (Claude).",
+          "Ejecuté despliegues a producción con supervisión de pipelines CI/CD."
+        ]
+      },
+      "siigo": {
+        "role": "Desarrollador FullStack Ssr",
+        "period": "Mar 2021 – Ago 2025 · 4 años 5 meses",
+        "location": "Remoto",
+        "bullets": [
+          "Desarrollé soluciones escalables en C# .NET Core, JavaScript y TypeScript que soportaron un crecimiento del 50%+ en el módulo de nómina.",
+          "Implementé comunicación entre servicios usando gRPC y mensajería asíncrona con Kafka, mejorando la resiliencia del sistema.",
+          "Lideré despliegues y gestión de entornos cloud con Azure DevOps y Docker, alcanzando disponibilidad de 99.9%.",
+          "Implementé microfrontends con Angular.js y React.js, mejorando la modularidad y velocidad de entrega de features.",
+          "Participé activamente en revisiones de código (code reviews) y mentorías técnicas al equipo."
+        ]
+      },
+      "lqn": {
+        "role": "Backend Developer",
+        "period": "Sep 2020 – Dic 2020 · 4 meses",
+        "location": "Remoto",
+        "bullets": [
+          "Desarrollé APIs con Python y GraphQL, reduciendo la complejidad de consultas en un 20% respecto al sistema anterior.",
+          "Integré chatbots con Dialogflow y React, automatizando el 60% de las consultas frecuentes de usuarios.",
+          "Corregí errores en sistemas legacy, mejorando la eficiencia operativa y estabilidad de la plataforma.",
+          "Configuré ambientes locales con Docker y archivos YAML para estandarizar el flujo de desarrollo.",
+          "Implementé mensajería con RabbitMQ para procesamiento asíncrono de eventos."
+        ]
+      },
+      "servagro": {
+        "role": "Desarrollador Web",
+        "period": "Oct 2018 – Nov 2020 · 2 años 1 mes",
+        "location": "Híbrido",
+        "bullets": [
+          "Desarrollé módulos en Odoo (Python) y componentes en JavaScript, extendiendo las capacidades del ERP para 3 unidades de negocio.",
+          "Actualicé microservicios con Python, LXD y Ansible, reduciendo los tiempos de despliegue.",
+          "Implementé APIs seguras usando GraphQL, Aiohttp, AsyncIO y JWT.",
+          "Configuré monitoreo en tiempo real con NetData y Grafana, mejorando la visibilidad de incidentes."
+        ]
+      },
+      "dao": {
+        "role": "Auxiliar de Sistemas",
+        "period": "Oct 2017 – Feb 2018 · 4 meses",
+        "location": "Popayán",
+        "bullets": [
+          "Lideré la migración de datos de inventario de 20 bodegas comerciales, completando el proceso sin pérdida de datos.",
+          "Capacité a 10 líderes de proceso en el manejo y parametrización del ERP, reduciendo un 25% los errores de operación post-implementación.",
+          "Preparé, validé y traté datos maestros para migración exitosa al nuevo sistema ERP."
+        ]
+      }
+    }
+  },
+  "education": {
+    "title": "Educación",
+    "items": {
+      "javeriana": {
+        "type": "Pregrado",
+        "degree": "Ingeniero de Sistemas y Computación",
+        "period": "En proceso de culminación"
+      },
+      "icesi": {
+        "type": "Diplomado",
+        "degree": "Ciencias de datos, tecnologías y estrategias digitales de analítica",
+        "period": "Jul 2022 – Ago 2022"
+      },
+      "sena": {
+        "type": "Especialización Tecnológica",
+        "degree": "Gerencia de Proyectos Informáticos",
+        "period": "Ene 2015 – Ene 2016"
+      }
+    },
+    "visitWebsite": "Visitar Sitio"
+  },
+  "languages": {
+    "title": "Idiomas",
+    "items": {
+      "spanish": { "name": "Español", "level": "Nativo" },
+      "english": { "name": "Inglés", "level": "A2 (en mejora)" }
+    }
+  },
+  "footer": {
+    "workingFrom": "Trabajando desde",
+    "location": "Cajibío, Cauca",
+    "rights": "Todos los derechos reservados"
+  }
+}
